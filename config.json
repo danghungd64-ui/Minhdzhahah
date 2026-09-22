@@ -1,0 +1,17 @@
+{
+  "game_info": {
+    "game_url": "https://play-sunwin.agency",
+    "data_source_url": "",
+    "current_session": "",
+    "last_result": "",
+    "dice_history": []
+  },
+  "strategy_params": {
+    "analysis_window": 10,
+    "balance_threshold": 6
+  },
+  "system_status": {
+    "last_updated": "",
+    "last_prediction": ""
+  }
+}
